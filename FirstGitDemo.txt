@@ -1,0 +1,6 @@
+Java execution point is==>
+===================================
+System.out.println("This.this is known as this.")
+
+I am "Dennis"
+email sirdenniso20@gmail.com
